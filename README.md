@@ -1,2 +1,2 @@
 # svg-minecraft
-Making SVGs of Minecraft
+Attempting to Make SVGs of Minecraft
