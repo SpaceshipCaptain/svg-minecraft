@@ -1,0 +1,19 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+ <defs>
+    <clipPath id="bh"><rect y="8" width="16" height="8"/></clipPath>
+    <image id="s" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEXXy43XwYXIt3q4qHWun3allGeei2GOL9VAAAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+</defs>
+  <g id="g">
+    <g  filter="brightness(.92)">
+    <use href="#s" transform="matrix(1, .5, -1, .5, 0, -6.14656)"/>
+    </g>
+    <g filter="brightness(.74)">
+    <use href="#s" clip-path="url(#bh)" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)"/>
+    </g>
+    <use href="#s" clip-path="url(#bh)" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+  </g>
+  <use href="#g"/>
+  <use href="#g"/>
+  <use href="#g"/>
+</svg>

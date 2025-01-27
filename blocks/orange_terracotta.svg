@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs><image id="a" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABlklEQVQ4EQXBgWElNQwFwJHsTY5CqIgG6ZLke63HTP37z99JAqCU7raelhvnvr6eLeE9r8kASlfZsIq1H13F5aR8Pr8qVHHvtda2nmUOu4AbNuU3sd+jQpBQBey1zHBnGLpafRXnWsVeXXZvc4eMN0SU8lS7N0a4KFrJJ2DCTmJrtZZ0ecLvOYJPLlXgz9cDznkNupqM/azl3Ku63BvJ+FoLUADOe1WV6taJSXw/j74ZtUoCFG5CymORcTMmIVFdVpfV5eccO1reY0Lw7AXOe/Uuy+YdIxLyDkV12XvZ0Gsjznmd9wI456oq3e3pRlAo3e18js2YGzejqwAAtDJz3QusvRCNtbede1GqWjKEP9+PqvLf7w+1rFr2bjPc96Xi3OuGfYfV0bhQnPNSrWpbq3SX9w6hunWTFHdsxQ1VrGIgcXNB95e+x32vQWEFaYq9etEBXcvMqL2tz8cNv78/Gh/XY1mQsr5L37YlJhi8v6aLiQ6gyih/9UJkxk34ubLZg05RzNejsarsamZMoqskYcZNBLrM8D9CeRkEUcYAMAAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/></defs>
+<g id="g">
+<use href="#a" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.92)"/>
+<use href="#a" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+<use href="#a" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+</g>
+<use href="#g"/>
+</svg>

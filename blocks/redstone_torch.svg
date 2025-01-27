@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs>
+    <image id="s" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAXUlEQVR42mMYBTQEfxkY/iNjsgz4X17+/7+fHwUGbNjw///16+QbAMLrYV4gB0wtdfsf6qr3n+yAnF8f8N/JVIkiA+AuGBgv5Iab/bc1kKXMC9Z60pS5wFxLHK8BAFVXP1qI6bjtAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    <clipPath id="st"><rect x="7" y="8.5" width="2" height="8"/></clipPath>
+    <clipPath id="tt"><rect x="7" y="6" width="2" height="2"/></clipPath>
+    <clipPath id="rt"><rect x="7" y="6" width="2" height="2.5"/></clipPath>
+    <rect id="r" fill="#fd0000" x="6.5" y="7" width="3" height="3"/>
+</defs>
+<g id="g">
+    <use href="#r" transform="matrix(1, -0.5, 0, 1.23168, -9.5, -6.59752)"/>
+    <use href="#r" transform="matrix(1, 0.5, 0, 1.23168, -6.5, -14.59752)"/>
+    <use href="#s" clip-path="url(#tt)" transform="matrix(1, .5, -1, 0.5, -1, -8.10992)"/>
+    <use href="#s" clip-path="url(#st)" transform="matrix(1, 0.5, 0, 1.23168, -9, -11.5)"/>
+    <use href="#s" clip-path="url(#st)" transform="matrix(1, -0.5, 0, 1.23168, -7, -3.5)"/>
+    <use href="#r" transform="matrix(1, .5, -1, .5, .5, -5.78072)"/>
+    <use href="#s" clip-path="url(#rt)" transform="matrix(1, 0.5, 0, 1.23168, -9, -11.5)"/>
+    <use href="#s" clip-path="url(#rt" transform="matrix(1, -0.5, 0, 1.23168, -7, -3.5)"/>
+</g>
+<use href="#g"/>
+<use href="#g"/>
+<use href="#g"/>
+</svg>

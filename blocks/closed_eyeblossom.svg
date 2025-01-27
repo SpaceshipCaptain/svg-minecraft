@@ -1,0 +1,15 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs>
+    <image id="a" width="16" height="16" transform="translate(-2.18232,0) scale(1.27279,1)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8ElEQVQ4je1RsQrCMBS8iEOXOkidlKoI4lT6A111btcuTi5+lrhW8BfcdKi4S7G0oFik1So6xUFShCbBD/CmkHe5u3cB/iCiwXLm0cs1wWEfoN3rYjydcLncS/a4XtMAAL6/EYpUeALMmZ1l4Aoc9gGyPC2EsjwtBH9aAQBcx6b9zgBZnuKUHDH3FkKuEK5jU9exqYxTlQ3DKMbt+ZSacDtg0FtNqIoCy7KEnNJeLHIYxdBbzU+Sc0L0hkYBlLooJZh7C/IdPYxi4PWiYRTjfH+UDLkdrNZrAgCqolAmtN3tyHA0Eq7ChWkY1DQM6S+8AWHta60YgRbEAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    <clipPath id="l"><rect x="-8" width="16" height="16"/></clipPath>
+    <clipPath id="r"><rect x="8" width="16" height="16"/></clipPath>
+</defs>
+<g id="g">
+    <use href="#a" clip-path="url(#r)" transform="matrix(1, -0.5, 0, 1.23168, -8, -4)"/>
+    <use href="#a" clip-path="url(#l)" transform="matrix(1, 0.5, 0, 1.23168, -8, -12)"/>
+    <use href="#a" clip-path="url(#l)" transform="matrix(1, -0.5, 0, 1.23168, -8, -4)"/>
+    <use href="#a" clip-path="url(#r)" transform="matrix(1, 0.5, 0, 1.23168, -8, -12)"/>
+</g>
+<use href="#g"/>
+</svg>

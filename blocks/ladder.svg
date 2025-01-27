@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs><image id="a" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZklEQVQ4y2NggIJpJY7/A21V/jMQAFjV1SWZ/9/aG/AfRIMUgNgwGhnDxGDq4QakB+iABUE0yHQQjQ2D5GDqQBjFFSBJK305gl7AqY6iMID5ETkM0P0NokdqGOBKByA83MNg6OQFAO8/Kr6h1TyZAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/></defs>
+<g id="g">
+<use href="#a" transform="matrix(1, 0.5, 0, 1.23168, 1, -15.5)"/>
+</g>
+<use href="#g"/>
+</svg>

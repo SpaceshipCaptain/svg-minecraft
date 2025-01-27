@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs>
+    <image id="s" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZElEQVQ4y2NgwAKmt9evqstPB2MGcgBIoxgXw//i5GjyDABpBOGEQI9VBF1GinOxuowU52J1GS7nUhUQ7U1cCon2Ji6FRHuTWIX0SWj4bMFwKTbFJCVnbIrRbcHrb2ICj2YZDABkwZU1jqo5pwAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+</defs>
+    <g id="g">
+        <use href="#s" transform="matrix(1, .5, -1, .5, 0, 3.70688)" filter="brightness(.92)"/>
+    </g>
+    <use href="#g"/>
+    <use href="#g"/>
+    <use href="#g"/>
+</svg>

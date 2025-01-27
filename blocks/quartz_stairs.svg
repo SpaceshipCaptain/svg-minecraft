@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+ <defs>
+    <clipPath id="th"><rect width="16" height="8"/></clipPath>
+    <clipPath id="bh"><rect y="8" width="16" height="8"/></clipPath>
+    <clipPath id="side"><rect y="8" width="16" height="8"/><rect x="8" width="8" height="16"/></clipPath>
+    <image id="s" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEXy7+3u6ubu5t7q4tri3tDd2csPbMi3AAAAXklEQVR42i3BQRXCUBRDwftOsyfBATjAv5eeYqApBvhsmBF/mgfhe2yaMesgimnHiBJ/PKrNFRBr50k3rTIFxMQt0uS2A9Y6T7h7BCTwFsTXqjRJC1amZbz0yrog/AC3SiHCsw1aXQAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <image id="t" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEXy7+3u6ubu5t7q4tri3tDd2csPbMi3AAAAXklEQVR42i3BQRXCUBRDwftOsyfBATjAv5eeYqApBvhsmBF/mgfhe2yaMesgimnHiBJ/PKrNFRBr50k3rTIFxMQt0uS2A9Y6T7h7BCTwFsTXqjRJC1amZbz0yrog/AC3SiHCsw1aXQAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+</defs>
+  <g id="g">
+    <g  filter="brightness(.92)">
+    <use href="#t" clip-path="url(#th)" transform="matrix(1, .5, -1, .5, 0, -16)"/>
+    <use href="#t" clip-path="url(#bh)" transform="matrix(1, .5, -1, .5, 0, -6.14656)"/>
+    </g>
+    <g filter="brightness(.74)">
+    <use href="#s" clip-path="url(#th)" transform="matrix(1, 0.5, 0, 1.23168, -8, -12)"/>
+    <use href="#s" clip-path="url(#bh)" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)"/>
+    </g>
+    <use href="#s" clip-path="url(#side)" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+  </g>
+  <use href="#g"/>
+  <use href="#g"/>
+  <use href="#g"/>
+</svg>

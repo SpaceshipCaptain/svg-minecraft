@@ -1,0 +1,21 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs>
+    <image id="s" width="16" height="16" href="data:;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMUlEQVQ4y2OoPyO5mBLMAGWkkYmxGjCbEgNmU+KC2dTywqgBI8aA2ZQYMJsmXiAbAwBLFtllDThGvQAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <g id="g">
+        <use href="#s" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.92)"/>
+        <use href="#s" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+        <use href="#s" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+    </g>
+    <rect id="b" width="16" height="16"/>
+    <mask id="m">
+        <rect height="64" width="64" x="-32" y="-32" fill="white"/>
+        <use href="#b" transform="matrix(1, .5, -1, .5, 0, -16)"/>
+        <use href="#b" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)"/>
+        <use href="#b" transform="matrix(1, -0.5, 0, 1.23168, -0, 0)"/>
+    </mask>
+</defs>
+    <use href="#g" mask="url(#m)"/>
+    <use href="#g" mask="url(#m)"/>
+    <use href="#g"/>
+</svg>

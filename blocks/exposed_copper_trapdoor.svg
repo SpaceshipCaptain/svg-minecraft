@@ -1,0 +1,16 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+ <defs>
+    <clipPath id="bh"><rect y="0" width="16" height="3"/></clipPath>
+    <image id="s" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAG1BMVEUAAADOjYO6gneYjGl6mGmod2KUdmF/cld5ZFQQEquBAAAAAXRSTlMAQObYZgAAAIJJREFUeNoVybEOwiAUBdALQ5lp8+jalsSupmro7OBsMAojsYmsLA18vnQ7yYFs21HK6QR63Zb3Ygo6esS8UYU7A9x50NUCal9B4TuwyE1FY1ViM1TCU4D5A6E5QIl/tqEWBUpi4hHd3QD7aNBTAgSt6J2VUvsCVS5a/2LGnEvJueQ/sjsaIVXF9kYAAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
+    <use id="f" href="#s" transform="scale(1,-1) translate(0,-16)"/>
+</defs>
+    <g id="g">
+        <use href="#s" transform="matrix(1, .5, -1, .5, 0, 0.01184)" filter="brightness(.92)"/>
+        <use href="#f" clip-path="url(#bh)" transform="matrix(1, 0.5, 0, 1.23168, -16, 8.01184)" filter="brightness(.74)"/>
+        <use href="#f" clip-path="url(#bh)" transform="matrix(1, -0.5, 0, 1.23168, 0, 16.01184)" filter="brightness(.55)"/>
+    </g>
+    <use href="#g"/>
+    <use href="#g"/>
+    <use href="#g"/>
+</svg>

@@ -1,0 +1,16 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+ <defs>
+    <clipPath id="bh"><rect y="0" width="16" height="1"/></clipPath>
+    <image id="s" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAeFBMVEXWYNHSW8vRWsrPV8fLU8LKUsHJUL/HTr3GTbzFTLvFS7rDSrnDSbjBSLfBR7bAR7W+RbS+RLO8Q7K7QrG6Qa+5QK+4P663Pq22Pay2PKu1PKu0O6qzOqmyOaixOKewN6avNqWuNaStNKOtNKKsM6KrMqGqMaCpMJ+BQQvFAAAAy0lEQVR42g3FSWKEIBQFwKfxQ5RBEQVFaJwg979hujaFT7iy7VNUopzGnA9mDXDhfH6i/7vDCk5+aWnygqRsIDTmMJDfLSVHNAcw6DXN/VDqYeLV92fBXRKl+gmpBv/GvAH4HaxdDYdygJgQwjdFLMeBlO4YhLwPptJ++Phad1043MZrcWPSwCIBsE4IkFAd90bbc8aZxjHsvczp0KVsGnuohbVXtb2RgH4hVQMmjK+LpHUhoP2ZHRk9gMdjknvGk9iUd2rWoFhOnP4B3ccR7P3hW8IAAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
+    <use id="f" href="#s" transform="scale(1,-1) translate(0,-16)"/>
+</defs>
+    <g id="g">
+        <use href="#s" transform="matrix(1, .5, -1, .5, 0, 2.4752)" filter="brightness(.92)"/>
+        <use href="#f" clip-path="url(#bh)" transform="matrix(1, 0.5, 0, 1.23168, -16, 10.4752)" filter="brightness(.74)"/>
+        <use href="#f" clip-path="url(#bh)" transform="matrix(1, -0.5, 0, 1.23168, 0, 18.4752)" filter="brightness(.55)"/>
+    </g>
+    <use href="#g"/>
+    <use href="#g"/>
+    <use href="#g"/>
+</svg>

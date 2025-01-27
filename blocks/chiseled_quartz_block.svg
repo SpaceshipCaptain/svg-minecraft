@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs><image id="t" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEXy7+3u6ubu5t7i3tDd2cufqW5AAAAAbklEQVR42i3J0Q3EIAwE0YWkAAhpALwFHJACjHH/NZ0iZb5GelipxKsnwqYbfRKmcRHyzlAeFNjui/QCq1mlZcLdVaY7rpTRagLa10td3Dc0hJ+EJtA9VI6H6NaV5SaGpcV63rD5LE4/Ya3E1hP/5w4UpVXOSiMAAAAASUVORK5CYII=" style="image-rendering:pixelated"/></defs>
+<defs><image id="s" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEXy7+3u6ubu5t7q4tri3tDd2csPbMi3AAAAdUlEQVR42iXNuRGDQBBE0VYGNMUEoD0CkAZ8Qc36zB75p6Ktwnzf+XDKGtpH4CGpTqHG3YYzo6lmZ0ho2YqVtqMmcNV2oBfa0DEA8pTwXmaPnkii23cYreOWyfjb4NKLFRecXOR+UXCFvTyLmMAaMpwbeenxB9A4F3woGojSAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/></defs>
+<g id="g">
+<use href="#t" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.92)"/>
+<use href="#s" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+<use href="#s" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+</g>
+<use href="#g"/>
+</svg>

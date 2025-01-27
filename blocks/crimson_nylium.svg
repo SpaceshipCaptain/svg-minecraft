@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs><image id="t" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEW9MDGFQkKsICByMjKUGBhlKCh7AAD3BEnSAAAAeklEQVR42gVA0RGCMAx96gS9OAFyfJMrzT9tyQCg/dek3X8ED6HH3M6lQC1U3+qE6/uQLFmRmoxCWkF9bnyTFeKXnk4BbvtvZmuQ+Jzva3LsorpEahhufJi/oCtR72Ug7XG8fdngU3WWnDCUS6CqsE/x22YNLGlwPvwP5K4gLzhHnmMAAAAASUVORK5CYII=" style="image-rendering:pixelated"/></defs>
+<defs><image id="s" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJ1BMVEW9MDGFQkKsICByMjKUGBhlKChXISFQGxtRFRV7AABBFhZqBABaAACk0h3SAAAAm0lEQVR42gGQAG//AEJCSSBEQkICAJQglCACQAJLALmUlEm7kJm8AJybm5nLScvMAIy8zLzIucyIAIiMhsxozMhmAIZZo2VmyGZTADa8dTO7Nck1AFdTV3ucM1tTAMUxNaxTUzi8AGNTNawxM3qnAFfDV4pzWKdnAIU7w1h3g1NYAGNTMTh3ZTE4AHUzFXZ6U1NVAHdTN1NqdTNVb/E388D2RAYAAAAASUVORK5CYII=" style="image-rendering:pixelated"/></defs>
+<g id="g">
+<use href="#t" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.92)"/>
+<use href="#s" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+<use href="#s" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+</g>
+<use href="#g"/>
+</svg>
