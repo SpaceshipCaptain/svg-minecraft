@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs>
+    <image id="top" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJFBMVEWvycmdtraBmptne3tQdodAYngqRFUhOEYqJDUYLDkeGCcSDxve3WX7AAAAdUlEQVR42gWAQQ3CUAxAX0vvtCCAMSc44cAFAYhCAwlBABZYZoD1L+H8S0QvJYk/LMbo85hvuX4rIU5WREClSatqMrh1JHZ0DBo9mBX4nQsUkBXEFK8XHAwcqNWcTGKLlXtAoUMt05RsZH+ThWO7a8Ynp2fkH0KkL8quNHOiAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    <image id="r" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAANlBMVEUAAACvycmdtraBmptvgoJscWtYYFhAYniURA5FSkIqRFU3OzUyNUAsLTsqJDUYLDkQHSUYFCSN0elUAAAAAXRSTlMAQObYZgAAAI1JREFUeNo9jVEOwzAIQ2nahGFSzO5/2ZFU3RMf1kNg6aMPD1UgvGIXs+GBEtuYibl78sOarGjCLCIUEVlQkCKSjOAOEHAL4BVKQjPXgZZU0bXgt2CFJbhEGf4FoQRr1gmeFpbW5/vzIxXQtzaTJAqSlaX34cfRWjuvy0fvMsy8nec2bjZkLu55L+ac8wdU1QmyYrOBrgAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <image id="s" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAACvycmdtraBmptvgoJscWtYYFhAYnhFSkIqRFU3OzUyNUAsLTsYLDkQHSWy0ig6AAAAAXRSTlMAQObYZgAAAIFJREFUeNpjCI1ICw1Naw1lSItqS0vLWJrG0JaxqqNjVVsGw713b+/eBRIM8y7wMTA84H2JYNTdvff23su7zxnqLvAyMFzgBTLAUiDG3Znl5XPvwhW/Zah7AGLwAUXevZ058y7QwNAsQSVll2WhDBldykZKJivaGHbv3rPnzJnduwG+PELv5OzslAAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <image id="bot" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAADFBMVEU6QEUyNUAsLTslHy6t0irOAAAAVElEQVR42mP4DwQMLwUYshlerUpdzXDr///lDKdfrb7McHzaqscMx2fNArLSpl1mOD0z7DLD7aVh10Gsxwynn2U/hyh+tTJqNcNLQYZshv////8HACKNLVebZtKXAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    </defs>
+<g id="g">
+    <use href="#bot" transform="matrix(1, .5, -1, .5, 0, 3.70688)" filter="brightness(.82)"/>
+    <use href="#s" transform="matrix(1, 0.5, 0, 1.23168, 0, -16)" filter="brightness(.64)"/>
+    <use href="#s" transform="matrix(1, -0.5, 0, 1.23168, -16, -8)" filter="brightness(.45)"/>
+    <use href="#top" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.92)"/>
+    <use href="#s" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+    <use href="#r" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+</g>
+<use href="#g"/>
+</svg>

@@ -2,7 +2,7 @@
 <defs>
     <image id="top" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJFBMVEWZcUBvb29oaGiAXjZ4WDZrUzJmTShaRCQ/Pz9VOh9NMxc1NTWtehKoAAAAhElEQVR42hXKsQ3CMBhE4fsvILrIMAAY0SIUMQEiNaKgZwYaRmMOsgCRMX04ZYA4sfS97rFY4JGxOta7cz27sSmFEgAnBZYmvsIlNoci8F791hn/sfvErnUEbGqTZ5nvISZnGMzAyqW0EsR3KY/0BSFrh2QiBC/A8aQtQvKOz34/15XNCIw9Loe3qZIBAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
     <image id="bot" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEWioqKcnJyMjIyFhYV5eXmZcUBvb29oaGiAXjZ4WDZrUzJmTShaRCQ/Pz9VOh9NMxc1NTXb1QlBAAAAf0lEQVR42jXOWQ6DQAwD0OmKNzK9/2nLBJAsK3o/zvhauTKe1hwQCiqjhuuJOT5iuCAP1LsBEUuIX29fAIaMXNANBYVqAFVE0K0LhMAFljzHBz1Bl1w8gAsUOT7ht2+1bzm6M8f5enXiNUsEiJU+biijgWuWC4SQ/di0q5Pu+QdbDApcKWqW4gAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
-    <use href="#top" id="topd" transform="rotate(180, 8 ,8)"/>
+    <use href="#top" id="topd" transform="scale(1,-1) translate(0,-16)"/>
     <clipPath id="topc"><rect y="13" width="16" height="3"/></clipPath>
     <clipPath id="s"><rect width="3" height="16"/></clipPath>
 </defs>

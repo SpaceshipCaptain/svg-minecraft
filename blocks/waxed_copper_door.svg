@@ -2,7 +2,7 @@
 <defs>
     <image id="top" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAIVBMVEUAAADjgmzWe1vIdFbCa0yyYkenWkBoaGiaUDhNUEYzMzOy2gJtAAAAAXRSTlMAQObYZgAAAH9JREFUeNoljUsKwjAARF+RQpc1uYAkzQGaEOkB2r34WwvFewQCNXv1BF7UpJ3VY2bgsd+iEEo57ZxF3FNKy+JQ8wF2vuP97EHeDL8Q22qoPTI0vQy1ycDZszZot0E1xLZMDx0aW2A+QvQGcTmRLx5hi1J7uuvocia+Y5a+PtMf8jsaPHlT0QIAAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
     <image id="bot" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAHlBMVEXjgmzWe1vIdFbCa0yyYkenWkBoaGiaUDhNUEYzMzNoIyXGAAAAdElEQVR42gXBgRHCQAwDMDn9Hsf+2wKNkfL+1P0t8vKRZM720dO78s00nqfOxQODNtmfRGpUEzFP2jgqETMBR0WSWWObAwm7NmpEIl26ZEJopSozL7s/ld0JOxnOlaxzYeLYxCrhPtEuoImDSbUCMknMDsAfTL4/S4egE1kAAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
-    <use href="#top" id="topd" transform="rotate(180, 8 ,8)"/>
+    <use href="#top" id="topd" transform="scale(1,-1) translate(0,-16)"/>
     <clipPath id="topc"><rect y="13" width="16" height="3"/></clipPath>
     <clipPath id="s"><rect width="3" height="16"/></clipPath>
 </defs>
