@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 56" width="300" height="450">
+<defs>
+    <image id="top" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEUAAADu5t7d2cvnysXnwrvnurTms63lrqjjqaLdnZfYl5HYlZHTkY3NhYDLgXzhtvVkAAAAAXRSTlMAQObYZgAAAJJJREFUeNpjMHExcTY2dnFjcA1NSwsNDctkcEsNDUtLdYlkyDm15syqVWdOM4jXPmh/x3G9lkE1h4EtgeFYDINrTsPdUF4gwy2n4wJL7FEgI+ZaAG/a0Vgg40LIXY5jsQxmMQwsDgxAhklMw11XkGITn9QLrLnHchhcfK468HYcy2Rw9bkQepfjaCaDaAzI5KM5AIgwM5qlidPZAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    <image id="bot" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEUAAADu5t7d2cvnysXnwrvUyrrnurTms63lrqjjqaLhqKHfo5vdnZfYl5HTkY3QioXNhYAVRb/kAAAAAXRSTlMAQObYZgAAAIhJREFUeNpNzYsKAzEIRNE8JjPZjWvz/19bTVsoyAUPgqVRfpW9r4hTu0DqANCjSugiREoSjUwASNUWaqAXEOZe3Yf7Ax3Yc7Y5x5wbsgLASB/DJQMDIorRivKAciON57T02BIUsBRQDxi08IFGLQQwgeet7A92AHNT1g7o+9YYDdB9+28e99cbAYUH4wVD0XMAAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
+    <use href="#top" id="topd" transform="rotate(180, 8 ,8)"/>
+    <clipPath id="topc"><rect y="13" width="16" height="3"/></clipPath>
+    <clipPath id="s"><rect width="3" height="16"/></clipPath>
+</defs>
+<g id="g">
+    <use href="#topd" clip-path="url(#topc)" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.92)"/>
+    <use href="#top" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+    <use href="#top" clip-path="url(#s)" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+<g transform="translate(0,19.70688)">
+    <use href="#bot" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+    <use href="#bot" clip-path="url(#s)" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+</g>
+</g>
+<use href="#g"/>
+<use href="#g"/>
+<use href="#g"/>
+</svg>
