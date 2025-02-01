@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+ <defs>
+    <clipPath id="i"><rect x="2" width="12" height="12"/></clipPath>
+    <clipPath id="si"><rect width="16" height="13"/><rect width="4" height="16"/><rect x="12" width="4" height="16"/></clipPath>
+    <clipPath id="fi"><rect y="13" width="2" height="3"/><rect x="14" y="13" width="2" height="3"/></clipPath>
+    <image id="t" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAABVQTFRFT09PWVhYZ2FhLS0yNDQ4Pz5CAAAAGYvR+AAAAAd0Uk5T////////ABpLA0YAAABWSURBVHicY2RgFBBk+P/hPSOzoaAAkP7LyJzMAAK3GEWCwIxXMMZtRtFAMOM1o6ojKuMNBuM1o4oTqq7bMHNuMbIkQRnMjowMAu//v2VkYBBkEARaDwApaRzbvxCwdQAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <image id="s" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEVnYWFdXV1ZWFhPT09JSEg/PkI0NDgtLTLbU7zbAAAAcklEQVR42hXGsRHDIBAEwBt1oMip5uiAe1XAfwUWdADETqB92xstlAlQgksyd8ceY64xNmrr7q1XPIVktoCYD5CC8biOREGZTFcy3IW/2hsWhby9QObhXgSqeoSIFK23/mRYzL3XU9Da5zxfvWPNf9b8AjUyHqb8s+JGAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    <rect id="b" width="16" height="16"/>
+<g id="g">
+    <use href="#s" clip-path="url(#fi)" transform="matrix(1, -0.5, 0, 1.23168, -12, -6)" filter="brightness(.5)"/>
+    <use href="#s" clip-path="url(#fi)" transform="matrix(1, 0.5, 0, 1.23168, -4, -14)" filter="brightness(.5)"/>
+    <use href="#s" clip-path="url(#i)" transform="matrix(1, -0.5, 0, 1.23168, -14, -7)" filter="brightness(.6)"/>
+    <use href="#s" clip-path="url(#i)" transform="matrix(1, 0.5, 0, 1.23168, -2, -15)" filter="brightness(.55)"/>
+    <use href="#t" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.92)"/>
+    <use href="#s" clip-path="url(#si)" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+    <use href="#s" clip-path="url(#si)" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+</g>
+</defs>
+<use href="#g"/>
+<use href="#g"/>
+<use href="#g"/>
+<use href="#g"/>
+<use href="#g"/>
+</svg>

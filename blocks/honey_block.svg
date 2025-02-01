@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+ <defs>
+    <clipPath id="i"><rect y="1" x="1" width="14" height="14"/></clipPath>
+    <image id="t" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEX444r223D/zl39wTT6qxz3mQldAcGdAAAABnRSTlO/v7+/v7+kPcJ/AAAAaklEQVR42g3GQQECMQwEwAUFcChoUgNsqoBsFLTxb4V7zaCDYfGd2LQQnwvbXIQXkksZKnjQpTpw8+ruHzhvThqoaikcpj5KBmadjHBi9g6aJ9TB9+UHdfh6+LqjAftoozWu4Up0vm2sWn/S3RtqtaeoTgAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <image id="s" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEX444r223D/zl39wTT6qxz3mQldAcGdAAAABnRSTlO9vb29vb3mgC9fAAAAbElEQVR42hWKQREDQQgEJw7CngJAQRYM5AAFAf9WsveZ6a5qZGCpjyE+tFgz4Xze64ebfatPI3ZmTw/Ca+bWQmdWiDqevX0Cnk8bhqjptPcLaj79BWEdSloMErpEjHGEVE3A1xbP2BDfmjX9B3+lGZKcMR5MAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    <image id="o" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX9wTT6qxz3mQnrfxHkdQP/ZNffAAAABXRSTlOBgYGBgUPYJcYAAABiSURBVHjaDcZBAQIBDAPBTRBwDQoACfjXAg5ozwCFeY0T6voM3vPxiK7lQcpsfLmRL5GPFKmVR0FFO8BnwUwTrVxHjxg8Uu3s+iDwHRx2e4ingTlx977erfpnVLmvN30m1T+NfC7/i3SV1gAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <rect id="b" width="16" height="16"/>
+    <mask id="m">
+        <rect height="64" width="64" x="-32" y="-32" fill="white"/>
+        <use href="#b" transform="matrix(1, .5, -1, .5, 0, -16)"/>
+        <use href="#b" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)"/>
+        <use href="#b" transform="matrix(1, -0.5, 0, 1.23168, -0, 0)"/>
+    </mask>
+<g id="g">
+    <use href="#t" clip-path="url(#i)" transform="matrix(1, .5, -1, .5, 0, -14.76832)" filter="brightness(.92)"/>
+    <use href="#s" clip-path="url(#i)" transform="matrix(1, 0.5, 0, 1.23168, -15, -8.5)" filter="brightness(.74)"/>
+    <use href="#s" clip-path="url(#i)" transform="matrix(1, -0.5, 0, 1.23168, -1, -0.5)" filter="brightness(.55)"/>
+    <use href="#o" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.92)"/>
+    <use href="#o" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
+    <use href="#o" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>
+</g>
+</defs>
+<use href="#g" mask="url(#m)"/>
+<use href="#g" mask="url(#m)"/>
+<use href="#g"/>
+</svg>
