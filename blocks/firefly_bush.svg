@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+  <defs>
+    <image id="b" width="16" height="16" transform="translate(-2.18232,0) scale(1.27279,1)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEUAAAChfTePejV1bEFZWjJFSSY2Ox4pLhdO+90rAAAAAXRSTlMAQObYZgAAAHZJREFUeNoVxsEJwkAYROGZQQUP6vx7X4liO4I2Ym32kAZ2bcGzoHjUkGwO7/GJAOYEA6lNspEJaPARZkfBFcGShAXxILLsy9K05Xhdh/PJSv9UOtaqqt6r720nPQ/7bfRFP9vMAYGbwNsNdyM+MxAE1w0jiQAm0t4XYahT8E0AAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
+    <image id="e" width="16" height="160" transform="translate(-2.18232,0) scale(1.27279,1)" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAACgBAMAAAD3F/EnAAAAGFBMVEUAAAD//+HW1LLAwaayrYeHinCLg1pLTzZjf5ZHAAAAAXRSTlMAQObYZgAAAFJJREFUeNq91DsNACAQBNGBEGokIAEJSEACEvBf4QByuc9TMNli+djIFfxM5CovB42OtYVGM99nhPcUXlp4T3bs6cglx55p3jPQ2OY9i2hZ8T8XwQoD3L6sXycAAAAASUVORK5CYII=" style="image-rendering:pixelated">
+      <animate attributeName="y" 
+               begin="0s" repeatCount="indefinite" dur="1.5s"
+               values="0;-16;-32;-48;-64;-80;-96;-112;-128;-144"
+               calcMode="discrete"
+      />
+    </image>
+    <clipPath id="l"><rect x="-8" width="16" height="16"/></clipPath>
+    <clipPath id="r"><rect x="8" width="16" height="16"/></clipPath>
+  </defs>
+<g id="g" filter="brightness(.93)">
+    <use href="#b" clip-path="url(#r)" transform="matrix(1, -0.5, 0, 1.23168, -8, -4)"/>
+    <use href="#e" clip-path="url(#r)" transform="matrix(1, -0.5, 0, 1.23168, -8, -4)"/>
+
+    <use href="#b" clip-path="url(#l)" transform="matrix(1, 0.5, 0, 1.23168, -8, -12)"/>
+    <use href="#e" clip-path="url(#l)" transform="matrix(1, 0.5, 0, 1.23168, -8, -12)"/>
+
+    <use href="#b" clip-path="url(#l)" transform="matrix(1, -0.5, 0, 1.23168, -8, -4)"/>
+    <use href="#e" clip-path="url(#l)" transform="matrix(1, -0.5, 0, 1.23168, -8, -4)"/>
+
+    <use href="#b" clip-path="url(#r)" transform="matrix(1, 0.5, 0, 1.23168, -8, -12)"/>
+    <use href="#e" clip-path="url(#r)" transform="matrix(1, 0.5, 0, 1.23168, -8, -12)"/>
+</g>
+<use href="#g"/>
+</svg>
