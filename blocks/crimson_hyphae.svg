@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs>
+    <image id="a1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9klEQVR4nF1Suw3FIAxkA9Mg0VK5oaGiS0VHR5FlmIAFskc2fEKX3LPSRMT2ffxxLZWWyoj+Vu1au9bp3Ij+CmFE31LpWlsqSwS/joArBKQtABQjegQ3YES/RPCPCkSWSEvlzAfoEBzRu1vVElMQ6TMfVvMKYb+61jMf1LUemFoiMLl7OPNhAWC1mGY0d2g6ZzFgtRTjre5a3RJBBVnRksXMV+oBsFF82b2daXudP+1jNbaCsPm+4WK/blXuFTRWaho/e3HcKIro3nJb20/TdnGftbRUqP+Mledgp8RrQ/ZWRc1Osxo2SPa5v/+mKYpOIPIZBs/7B/cmlf3uPeppAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    <image id="a2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA80lEQVR4nF2SIRLFIAxEcwMwzGBRMRhUHQpXh+AynIAL9B694R9m2/2ZOiDZt0mItFRaKj365dypx6nHFOnRXyH06Fsqpx4tleUcrkLBlH3+CIDoRr9jUwRJyMDLcq6lMnIFrkd/q/bonwDBtsIe/cjVel4h7NOpx8gVYGtiQ8s5IHbdI1crANVqmvHcT7eq1YBqEd2I5QoBGaSiJauZb/YjYKOcL38AlPVObOQqvKMY+lC23nZRxSNgGBhrdZkf3B/3GQWrhyfYtyrL3gKouS129njhXjxjtdvCKdnls9Ed5p6gDMI++/f/aZqiE5iAQh+CfvaDlepywOi7AAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    <image id="a3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA8klEQVR4nGVSqxHFIBCkg8Mwg0VhYlC4KBwOkWZSAQ3QRzp8k+y9nXt5hjk49nMLrqXSUhnRT5Gea8/1dG5Ej7Wl0nNtqawQsHUEnO6uXwBQjOivnBWAHtq4wZOWyrHtoBvRQ8S9iK3giP7YdrZWCFNEdY9ttzZsfXxbU+RWgK4FgBUxANOMps5ADLLiFr6HAd8z4AZYVwgYyWKuJyIkpkNDFCsjZ6brYQGFWmqpQIqpEzZFUMPFzzuQxkrNr3tMr1cZBd2DG7enCG3r0D1Xa52J4YT6Gisn+/9RqPkIp3vaNhlL9vp/+nAwZx8VIq8wWHwAeE6T7YIkovMAAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
+    <image id="a4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA7UlEQVR4nGVSuxXDIAzUBtDwHi2VGjdUdK7o6Ci8DBN4Ae+RDfPI4YvidAh0PySpKdeUe/RDpGlpWoYIyh59TblpqSmzFAvAM95O53r0oOgGv8hQowPdp3M15WPbQUeMPIgpeIXQoz+23Zoc8jk1Lce2kwMiANinAQXo4ha+wdqjf6kCU++QE4ATMVcIYGXZTYCmZQqhg6yIZGXH3b0ADGrjAsY/rbfzZQmjYccVAvLgfnwU4OJnDqSBFDDD+JmDY40murfc1vYK3bRY63YsdpHWt3Id/jcKZ4LnpK3dB5l1/x0czNkkEHl8Brf1DWg0kNb5KjkaAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+    <image id="a5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA70lEQVR4nF1Suw3FIAz0BkmDREvlJg0VXSo6Ooos4wneAtkjGz7BkZOVzsj3s43UlGvKPe6/bWtamhYT6XG/Q+hxryk3LTVlPsUT0PYESPTZXQQ80AYC6Ee1pnwdJ+TIEZNh0rQ8qtAAAhLXcdLTZIBH1bRcx+ljUI8tm+jhAF9PgKrn1Om5CKg8B6oU7nMAFE3LMAKCqhjJc+xFDwIQMPXWoEHF5mIgsdZaU4YVEaTZWyPFuhHvAhlvZS7POBzWz1UwvddGJAAEa+F1OLEfhv5rrcxNsQ+fJ7pDGG0vxuKTvscd4Vc49lDz/5LP7/0H+yyUcatdYQgAAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
+<g id="a">
+<use href="#a1"/>
+<use href="#a5">
+    <animate
+        attributeName="opacity" 
+        values="1;1;0.5"
+        keyTimes="0;0.9;1"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+    </use>
+<use href="#a4">
+    <animate
+        attributeName="opacity" 
+        values="1;1;0;0"
+        keyTimes="0;0.7;0.9;1"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+    </use>
+<use href="#a3">
+    <animate
+        attributeName="opacity" 
+        values="1;1;0;0"
+        keyTimes="0;0.5;0.7;1"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+    </use>
+<use href="#a2">
+    <animate
+        attributeName="opacity"
+        values="1;1;0;0"
+        keyTimes="0;0.3;0.5;1"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+</use>
+<use href="#a1">
+        <animate
+        attributeName="opacity" 
+        values="1;1;0;0"
+        keyTimes="0;0.1;0.3;1"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+</use>
+<use href="#a5">
+    <animate
+        attributeName="opacity" 
+        values=".5;0;0"
+        keyTimes="0;.1;1"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+    </use>
+</g>
+</defs>
+<g id="g">
+    <use href="#a" transform="matrix(1, .5, -1, .5, 0, -16)"/>
+    <use href="#a" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)"/>
+    <use href="#a" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)"/>
+</g>
+<use href="#g"/>
+<use href="#g"/>
+<use href="#g"/>
+</svg>
