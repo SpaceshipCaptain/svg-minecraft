@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+<defs>
+    <image id="a1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAABFUlEQVR4nG1Su63EIBAkInZEQka08XZgyTEivdw0QA+04QKuFApxBQSWLnnCczdC1su83t3Z+WBW51q0WSR5vzqXvM8ivYYssjq3OpdFzn3hjCmqRRXT8wQhimqvoUULLPN5vz7v17kvRTWLEA/tonodG77Pfek1GIwm7wHD62hfx0YyWaRFOxZYzFxxraiCHuWZFi2p9xpmPcl7elBuwkM0t0EXqLMH5f6P+0MDOADgOrZew7kvdAnw7Z5p0Q4NqCkAmygfCeS7HJSS92jP4lq0xE43Q1wzc7SzXMa3/iyBQkNZj51H3gQdomHRvxPMm7S/osmBkZ37ch3bI+/hEj1hD/TwKGkJjowLqAGA63Pes2Mw4A9rSuuGUyCr6gAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <image id="a2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAABHklEQVR4nG2Suw3EIAyGqVKnoqGjovYGkVJHtNeHBdiBNTLAjZJBMgFFpGtO5LtYKLoOsP2/jJmsPdYxhRCdm6yNzqUQeJmsnaxNIezLUIvPItE5k0U4UZ6szSI9RLrmj3UEyxzr+Hm/Pu9XFkkhZJFafC2eMt3xpj3WsQ3AUIvfl+Hc5nObs8i+DHTUWwzazL4Meum1Ap9FmMdeFmkDak7ZeInO0VSLZ7iZJg0gVXqfQbrVo7l5gB0bf3UfF/O5zbV4Qya07sugunvr6YIj7iYpOgeGykM3bKlbSGNQ3l664vX7rpd1o7YeMw8UzbB56JeqHRigRADMt5TObX7Eim9oCQ2sFqvmxaYpE5HGzfX3+eDSbQCj+8Y9f4wP8gUx8e6ch60llwAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <image id="a3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVR4nF1SsY3EIBAkckzEB2SOiLcDJGLL6eXQAPGnboMCrhQXQgU+CemSE4xvhE4iWHZnh51ZlDemRp2c2631xuzWJueuY03OeWO8Mbie2wKMSs5lEaCJaCWQIo3ruS3gUjXq9/Pxfj6ySHKOfCgDvY+4Rl2j7g14ATQ1asyDYB4mjaS6jhWX1//fuS1zGacOhZSnWgkcna8hs1tL4jSab9GoZREM8+NBHnk8fmtgd42aBWSySCuhlZBFoKo3AIGAcyO+jhVo7keRG1CKI0v+Tni7hDJpKBc9877rIFWQ1Ur4sYgIZCA9i3QNdB2pGYESPgGm6ItjDwN4An8AoFFdNPTBUMQo4+zW8uWuARZhZfNfmH87N+ON+QA0nu9QTktTDAAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+<g id="a">
+<use href="#a1"/>
+<use href="#a3">
+    <animate
+        attributeName="opacity" 
+        values="0;1;0.5"
+        keyTimes="0;0.833;1"
+        dur="1.2s"
+        repeatCount="indefinite"/>
+    </use>
+<use href="#a2">
+    <animate
+        attributeName="opacity"
+        values="1;1;1;0;0"
+        keyTimes="0;0.333;0.5;0.833;1"
+        dur="1.2s"
+        repeatCount="indefinite"/>
+</use>
+<use href="#a1">
+        <animate
+        attributeName="opacity" 
+        values="1;1;0;0"
+        keyTimes="0;0.166;0.5;1"
+        dur="1.2s"
+        repeatCount="indefinite"/>
+</use>
+<use href="#a3">
+    <animate
+        attributeName="opacity" 
+        values="0.5;0;0"
+        keyTimes="0;0.166;1"
+        dur="1.2s"
+        repeatCount="indefinite"/>
+</use>
+</g>
+</defs>
+<g id="g">
+    <use href="#a" transform="matrix(1, .5, -1, .5, 0, -16)"/>
+    <use href="#a" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)"/>
+    <use href="#a" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)"/>
+</g>
+<use href="#g"/>
+<use href="#g"/>
+<use href="#g"/>
+</svg>
