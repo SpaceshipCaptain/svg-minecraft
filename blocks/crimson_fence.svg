@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 35.70688" width="300" height="300">
+<defs>
+    <image id="a" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEWGPlp+OlZqNEtcMEJLJzdEITE/Hi1M/JxbAAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg==" style="image-rendering:pixelated"/>
+    <clipPath id="ce"><rect x="7" y="1" width="2" height="3"/><rect x="7" y="7" width="2" height="3"/></clipPath>
+    <clipPath id="ct"><rect y="7" width="16" height="2"/></clipPath>
+    <clipPath id="cs"><rect y="1" width="16" height="3"/><rect y="7" width="16" height="3"/></clipPath>
+    <clipPath id="pr"><rect x="6" width="1" height="16"/><rect x="6" width="4" height="1"/></clipPath>
+    <clipPath id="prs"><rect x="7" width="3" height="16"/></clipPath>
+    <clipPath id="prs2"><rect x="7" width="3" height="7"/></clipPath>
+    <clipPath id="pl"><rect x="6" width="4" height="16"/></clipPath>
+    <clipPath id="pt"><rect x="6" y="6" width="4" height="4"/></clipPath>
+</defs>
+<g id="g">
+    <use href="#a" clip-path="url(#prs)" transform="matrix(1, -0.5, 0, 1.23168, -6, -3)" filter="brightness(.7)"/>
+    <use href="#a" clip-path="url(#ct)" transform="matrix(1, .5, -1, .5, 0, -7.37824)" filter="brightness(.95)"/>
+    <use href="#a" clip-path="url(#prs2)" transform="matrix(1, -0.5, 0, 1.23168, -6, -3)" filter="brightness(.7)"/>
+    <use href="#a" clip-path="url(#ct)" transform="matrix(1, .5, -1, .5, 0, -14.76832)" filter="brightness(.95)"/>
+    <use href="#a" clip-path="url(#cs)" transform="matrix(1, 0.5, 0, 1.23168, -9, -11.5)" filter="brightness(.9)"/>
+    <use href="#a" clip-path="url(#pr)" transform="matrix(1, -0.5, 0, 1.23168, -6, -3)" filter="brightness(.7)"/>
+    <use href="#a" clip-path="url(#ce)" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.7)"/>
+    <use href="#a" clip-path="url(#pl)" transform="matrix(1, 0.5, 0, 1.23168, -10, -11)" filter="brightness(.9)"/>
+    <use href="#a" clip-path="url(#pt)" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.95)"/>
+</g>
+<use href="#g"/>
+<use href="#g"/>
+<use href="#g"/>
+</svg>
