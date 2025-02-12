@@ -1,7 +1,7 @@
 # svg-minecraft
 SVGs of minecraft
 
-I recommend https://marketplace.visualstudio.com/items?itemName=jock.svg for make or editing SVGs. (vscode extension)
+I recommend https://marketplace.visualstudio.com/items?itemName=jock.svg for making or editing SVGs. (vscode extension)
 
 
 
