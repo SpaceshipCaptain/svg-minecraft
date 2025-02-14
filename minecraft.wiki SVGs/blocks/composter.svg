@@ -5,8 +5,8 @@
     <image id="s" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJFBMVEW0dT6jcEOHWC5+TRV4SR9eOQ5cNBFGQAZGMQ5RKwo+JQ4lFAWgE2mhAAAAbklEQVR42lXKwQmDQBSE4dkO8uzAYVqwgcfrIJdUEEghS8S9L2wL2sFWp6AHnYH/9CEBhvRKoB+XE2JIwUD91da+rWLrS55y6XAbRjuCIMMpoV1D6Z+8zluHRrPBRNDlFB9mfU//chq6GSiG82Z2ufUqE+wcwPkAAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
     <rect id="b" width="16" height="16"/>
 <g id="g">
-    <use href="#s" clip-path="url(#i)" transform="matrix(1, -0.5, 0, 1.23168, -14, -7)" filter="brightness(.74)"/>
-    <use href="#s" clip-path="url(#i)" transform="matrix(1, 0.5, 0, 1.23168, -2, -15)" filter="brightness(.55)"/>
+    <use href="#s" clip-path="url(#i)" transform="matrix(1, -0.5, 0, 1.23168, -14, -7)" filter="brightness(.55)"/>
+    <use href="#s" clip-path="url(#i)" transform="matrix(1, 0.5, 0, 1.23168, -2, -15)" filter="brightness(.74)"/>
     <use href="#t" transform="matrix(1, .5, -1, .5, 0, -16)" filter="brightness(.92)"/>
     <use href="#s" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)" filter="brightness(.74)"/>
     <use href="#s" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.55)"/>

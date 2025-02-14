@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 -16.14656 36 36" width="300" height="300">
+ <defs>
+    <clipPath id="th"><rect width="16" height="8"/></clipPath>
+    <clipPath id="bh"><rect y="8" width="16" height="8"/></clipPath>
+    <clipPath id="ih"><rect x="4" y="8" width="8" height="8"/></clipPath>
+    <image id="t" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEVudXsAkpUHSFcDQVAFKjKEXZ8yAAAAVklEQVR42iXNQQ3DUBDE0FE/hCKotwQyXgblz6mKcvTBekFWNHQsNlwd5kzu/qrZgmDsi6LRzmVP9NniG8v8om6RFO2U9KP1TEDWTradCpEDMnG83fMHAVMVF8gqMPkAAAAASUVORK5CYII=" style="image-rendering:pixelated"/>
+    <image id="s" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAG1BMVEUAAAAp3+sAkpUHSFcDQVAGLjcLISoRGyENEhfJSjsvAAAAAXRSTlMAQObYZgAAAEpJREFUeNqtwUEBgCAMBdAfwwjeaeDAAjITKJBgM8H4sb0YwffwF0kiKUtGKYduqhVV9Wx3VXjfezczDCfpz8Rg8JqxgI1rBAl+XjVyGfdNtyNZAAAAAElFTkSuQmCC" style="image-rendering:pixelated"/>
+	<image id="i" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAEACAMAAACNjAZ8AAAAD1BMVEUAAAAddYkWSlcHMjsGJi2qa+IfAAAAAXRSTlMAQObYZgAAAMhJREFUeNrl1zdixFAMA1ERmPuf2aFaQYFOid/qOB2f8vbXDnKOYPAuANwGBHoMJaR6DCXVaxjA0W+P/42Hwe3VUVmcQTXGo788eo8u+OhRQzzcBOP+dqldkCKURI25X1oQutsjg3Gt4sHRIwshVEFWgOd6dCCbOxCRICY8xMIe7jzEOzzmgxhID4eHY33ReIwCaR4Yh/1PPGodDxMe4Jgbn9EeHcdGhNZDk+8Xf/oPr8DpQS3rwUlQztp7oKnvFz70S5NB9UaPJ6LHBXwYLl6dAAAAAElFTkSuQmCC" style="image-rendering:pixelated">
+	      <animate attributeName="y" begin="0s" repeatCount="indefinite" dur="1.6s" values="0;-16;-32;-48;-64;-80;-96;-112;-128;-144;-160;-176;-192;-208;-224;-240" calcMode="discrete"/>
+    </image>
+</defs>
+  <g id="g">
+    <g filter="brightness(.93)">
+    <use href="#t" transform="matrix(1, .5, -1, .5, 0, -6.14656)"/>
+    </g>
+    <g filter="brightness(.75)">
+    <use href="#s" clip-path="url(#bh)" transform="matrix(1, 0.5, 0, 1.23168, -16, -8)"/>
+    </g>
+    <use href="#s" clip-path="url(#bh)" transform="matrix(1, -0.5, 0, 1.23168, 0, 0)" filter="brightness(.56)"/>
+	<use href="#i" clip-path="url(#ih)" transform="matrix(-1.43, 0, 0, 1.2, 11.4, -22.4)" filter="brightness(.56)"/>
+	<use href="#i" clip-path="url(#ih)" transform="matrix(1.43, 0, 0, 1.2, -11.4, -12.4)" filter="brightness(.56)"/>
+  </g>
+  <use href="#g"/>
+</svg>
+<!--https://minecraft.wiki/w/User:Deshman-gpuser-->
